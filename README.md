@@ -1,6 +1,9 @@
 
 # DetectAI: Sistema Preditivo de Antifraude 🔍
 
+<img src="https://github.com/ViniciusKanh/DetectAI-DetectorAntiFraude-AI/blob/main/assets/img/Inteligencia-artificial-e-aliada-para-deteccao-de-anomalia-e-fraude-final-1.webp" alt="Capa do DetectAI" width="1000"/>
+
+
 ## 📖 Introdução
 
 Bem-vindo ao repositório do DetectAI, um inovador sistema preditivo de antifraude desenvolvido com Inteligência Artificial (IA) e Machine Learning! Nosso objetivo é fornecer uma solução robusta e eficaz para detectar e prevenir fraudes em transações financeiras.
