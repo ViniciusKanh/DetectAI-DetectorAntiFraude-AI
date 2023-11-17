@@ -53,4 +53,4 @@ Se você acha que este projeto é útil, por favor, dê uma estrela ⭐ e compar
 
 ---
 
-DetectAI - Protegendo suas transações financeiras com o poder da IA! 💡💼
+DetectAI - Protegendo suas transações financeiras com Inteligencia Artificial! 💡💼
